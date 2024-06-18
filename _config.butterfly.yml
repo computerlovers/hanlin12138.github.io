@@ -3,21 +3,21 @@
 # --------------------------------------
 
 nav:
-  logo: https://ts1.cn.mm.bing.net/th/id/R-C.6b4b53461b1d8e7dcef69d5906196379?rik=DvtKzVP%2b5vYLNQ&riu=http%3a%2f%2fwww.kulemi.com%2fdl%2fproject%2fphoto%2f20191017%2f2019101716463361476743.jpg&ehk=ETj0vNe8uzfF0zsFgzPKuRuSIteHVUsufy2Giz02Zy0%3d&risl=&pid=ImgRaw&r=0
+  logo: https://c-ssl.duitang.com/uploads/blog/202108/22/20210822111358_90601.jpg
   display_title: true
   fixed: false # fixed navigation bar
 
 # Menu 目錄
 menu:
-  # Home: / || fas fa-home
-  # Archives: /archives/ || fas fa-archive
-  # Tags: /tags/ || fas fa-tags
-  # Categories: /categories/ || fas fa-folder-open
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
-  # About: /about/ || fas fa-heart
+   Home: / || fas fa-home
+   Archives: /archives/ || fas fa-archive
+   Tags: /tags/ || fas fa-tags
+   Categories: /categories/ || fas fa-folder-open
+   List||fas fa-list||hide:
+    Music: /music/ || fas fa-music
+    Movie: /movies/ || fas fa-video
+   Link: /link/ || fas fa-link
+   About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
