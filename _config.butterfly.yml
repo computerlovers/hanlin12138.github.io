@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: # image
+  logo: https://ts1.cn.mm.bing.net/th/id/R-C.6b4b53461b1d8e7dcef69d5906196379?rik=DvtKzVP%2b5vYLNQ&riu=http%3a%2f%2fwww.kulemi.com%2fdl%2fproject%2fphoto%2f20191017%2f2019101716463361476743.jpg&ehk=ETj0vNe8uzfF0zsFgzPKuRuSIteHVUsufy2Giz02Zy0%3d&risl=&pid=ImgRaw&r=0
   display_title: true
   fixed: false # fixed navigation bar
 
